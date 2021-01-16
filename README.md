@@ -24,6 +24,10 @@ Built GTK example window (https://developer.gnome.org/gtk3/stable/gtk-getting-st
 
 > gcc `pkg-config --cflags gtk+-3.0` -o bin/meus_calends src/main.c `pkg-config --libs gtk+-3.0`
 
+### 1.2
 
+1/15/21
+
+Spent way too much time last night sketch out an ideal interface and widget. I am very pleased with the progress/drawings/thoughts/states I did think out and document. I need to get better with the scanner so I can directly embedded/manipulate the images I draw.
 
 
