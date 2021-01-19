@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=Example
+Icon=calends
+StartupNotify=true
+Exec=~/repos/calends/bin/meus_calends

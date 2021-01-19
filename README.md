@@ -50,3 +50,27 @@ It is also possible to embed the UI description in the source code as a string a
 https://developer.gnome.org/gtk3/stable/ch01s03.html
 
 
+### 1.4
+
+1/18-19/21
+
+The next example wants me to access the source to practice with applications. I wish they had the source file more easily available as an HTML
+
+I searched for the files on my computer using *find* and *grep* but to no avail
+
+> find gtk /usr/ | grep example
+
+```
+The full, buildable sources for these examples can be found in the examples/ directory of the GTK+ source distribution, or online in the GTK+ git repository.
+```
+https://developer.gnome.org/gtk3/stable/ch01s04.html
+
+https://github.com/GNOME/gtk/tree/master/examples
+
+Checking this out into repos against my better judgement (feels a bit cluttered but oh well)
+
+http://ptomato.name/advanced-gtk-techniques/html/real-life-app-setup.html
+
+Stumbled into this site by searching "gtk .desktop icon".
+
+Need to move out of the tutorial and into implementing my application and reading/referencing the examples as needed. The size and complexity of the examples at this point is detrimental compared to what I want to implement. I had a great time building the 48x48 pixel desktop icon to start but having trouble linking it into the running application so going to try this Ptomato site and work on the application itself
