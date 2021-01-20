@@ -74,3 +74,10 @@ http://ptomato.name/advanced-gtk-techniques/html/real-life-app-setup.html
 Stumbled into this site by searching "gtk .desktop icon".
 
 Need to move out of the tutorial and into implementing my application and reading/referencing the examples as needed. The size and complexity of the examples at this point is detrimental compared to what I want to implement. I had a great time building the 48x48 pixel desktop icon to start but having trouble linking it into the running application so going to try this Ptomato site and work on the application itself
+
+## Chapter 2
+
+1/19/21
+
+Attempting to build the application from examples but using my names/goals/arrangments. Going to remove examples folder from project.
+
